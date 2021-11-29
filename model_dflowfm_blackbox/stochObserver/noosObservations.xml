@@ -1,94 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <noosObserver xmlns="http://www.openda.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openda.org http://schemas.openda.org/observation/noosObservations.xsd">
 
-	<timeSeries status="status" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.05">
 		Dauphin_Island
 	</timeSeries>
-	<timeSeries status="status" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.05">
 		Dog_River_Bridge
 	</timeSeries>
-	<timeSeries status="status" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.05">
 		Coast_Guard_Sector_Mobile
 	</timeSeries>
-	<timeSeries status="status" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.05">
 		Bay_Waveland_Yacht_Club
 	</timeSeries>
-	<timeSeries status="status" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.05">
 		Pilottown
 	</timeSeries>
-	<timeSeries status="status" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.05">
 		Pilots_Station
 	</timeSeries>
-	<timeSeries status="status" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.05">
 		Shell_Beach
 	</timeSeries>
-	<timeSeries status="status" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.05">
 		Grand_Isle
 	</timeSeries>
-	<timeSeries status="status" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.05">
 		New_Canal
 	</timeSeries>
-	<timeSeries status="status" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.05">
 		Port_Fourchon
 	</timeSeries>
-	<timeSeries status="status" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.05">
 		Bonnet_Carre_Spillway
 	</timeSeries>
-	<timeSeries status="status" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.05">
 		Amerada_Pass
 	</timeSeries>
-	<timeSeries status="status" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.05">
 		Eugene_Island
 	</timeSeries>
-	<timeSeries status="status" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.05">
 		Freshwater_Canal_Locks
 	</timeSeries>
-	<timeSeries status="status" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.05">
 		Calcasieu_Pass
 	</timeSeries>
-	<timeSeries status="status" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.05">
 		Pascagoula
 	</timeSeries>
-	<timeSeries status="status" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.05">
 		Rigolets
 	</timeSeries>
-	<timeSeries status="status" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.05">
 		Crooked_Bayou
 	</timeSeries>
-	<timeSeries status="status" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.05">
 		Cow_Bayou
 	</timeSeries>
-	<timeSeries status="status" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.05">
 		Bay_Gardene
 	</timeSeries>
-	<timeSeries status="status" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.05">
 		Empire_Waterway
 	</timeSeries>
-	<timeSeries status="status" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.05">
 		Snake_Island
 	</timeSeries>
-	<timeSeries status="status" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.05">
 		Stone_Island
 	</timeSeries>
-	<timeSeries status="status" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.05">
 		St_Joseph_Island
 	</timeSeries>
-	<timeSeries status="status" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.05">
 		Grand_Pass
 	</timeSeries>
-	<timeSeries status="status" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.05">
 		Merrill_Shell_Bank
 	</timeSeries>
-	<timeSeries status="status" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.05">
 		Gulfport
 	</timeSeries>
-	<timeSeries status="status" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.05">
 		East_Ship_Island
 	</timeSeries>
-	<timeSeries status="status" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.05">
 		Biloxi_Bay
 	</timeSeries>
-	<timeSeries status="status" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.05">
 		Graveline _ayou
 	</timeSeries>
 
