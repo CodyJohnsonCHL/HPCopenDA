@@ -12,5 +12,4 @@ export LD_LIBRARY_PATH=${D3D_HOME}/src/lib:${D3D_HOME}/petsc-3.13.0/linux-intel/
 MDU=$1
 
 # Execute
-cd ${RUN_DIR}
 mpirun -np 36 ${D3D_HOME}/src/bin/dflowfm --autostartstop ${MDU}
