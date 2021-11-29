@@ -49,47 +49,5 @@
 	<timeSeries status="use" standardDeviation="0.05">
 		Pascagoula
 	</timeSeries>
-	<timeSeries status="use" standardDeviation="0.05">
-		Rigolets
-	</timeSeries>
-	<timeSeries status="use" standardDeviation="0.05">
-		Crooked_Bayou
-	</timeSeries>
-	<timeSeries status="use" standardDeviation="0.05">
-		Cow_Bayou
-	</timeSeries>
-	<timeSeries status="use" standardDeviation="0.05">
-		Bay_Gardene
-	</timeSeries>
-	<timeSeries status="use" standardDeviation="0.05">
-		Empire_Waterway
-	</timeSeries>
-	<timeSeries status="use" standardDeviation="0.05">
-		Snake_Island
-	</timeSeries>
-	<timeSeries status="use" standardDeviation="0.05">
-		Stone_Island
-	</timeSeries>
-	<timeSeries status="use" standardDeviation="0.05">
-		St_Joseph_Island
-	</timeSeries>
-	<timeSeries status="use" standardDeviation="0.05">
-		Grand_Pass
-	</timeSeries>
-	<timeSeries status="use" standardDeviation="0.05">
-		Merrill_Shell_Bank
-	</timeSeries>
-	<timeSeries status="use" standardDeviation="0.05">
-		Gulfport
-	</timeSeries>
-	<timeSeries status="use" standardDeviation="0.05">
-		East_Ship_Island
-	</timeSeries>
-	<timeSeries status="use" standardDeviation="0.05">
-		Biloxi_Bay
-	</timeSeries>
-	<timeSeries status="use" standardDeviation="0.05">
-		Graveline _Bayou
-	</timeSeries>
 
 </noosObserver>
