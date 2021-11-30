@@ -23,10 +23,11 @@
 
 	<exchangeItems>
 		<vector id="allElementsFromIoObject" ioObjectId="frictionCoefFile"/>
+		<vector id="Bonnet_Carre_Spillway.waterlevel" ioObjectId="%netcdfoutput%" elementId="Bonnet_Carre_Spillway.waterlevel"/>
 		<vector id="Amerada_Pass.waterlevel" ioObjectId="%netcdfoutput%" elementId="Amerada_Pass.waterlevel"/>
 		<vector id="Bay_Waveland_Yacht_Club.waterlevel" ioObjectId="%netcdfoutput%" elementId="Bay_Waveland_Yacht_Club.waterlevel"/>
 		<vector id="Calcasieu_Pass.waterlevel" ioObjectId="%netcdfoutput%" elementId="Calcasieu_Pass.waterlevel"/>
-		<vector id="Coast_Gaurd_Sector_Mobile.waterlevel" ioObjectId="%netcdfoutput%" elementId="Coast_Gaurd_Sector_Mobile.waterlevel"/>
+		<vector id="Coast_Guard_Sector_Mobile.waterlevel" ioObjectId="%netcdfoutput%" elementId="Coast_Guard_Sector_Mobile.waterlevel"/>
 		<vector id="Dauphin_Island.waterlevel" ioObjectId="%netcdfoutput%" elementId="Dauphin_Island.waterlevel"/>
 		<vector id="Dog_River_Bridge.waterlevel" ioObjectId="%netcdfoutput%" elementId="Dog_River_Bridge.waterlevel"/>
 		<vector id="Eugene_Island.waterlevel" ioObjectId="%netcdfoutput%" elementId="Eugene_Island.waterlevel"/>
