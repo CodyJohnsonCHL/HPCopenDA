@@ -17,16 +17,25 @@
                 <stdDev value=".05" transformation="identity"/>
                 <vector id="friction_2"/>
             </regularisationConstant>
-            <regularisationConstant>
-                <stdDev value=".05" transformation="identity"/>
-                <vector id="friction_3"/>
-            </regularisationConstant>
         </parameters>
 
         <predictor>
-            <vector id="Obs01.waterlevel"/>
-            <vector id="Obs02.waterlevel"/>
-            <vector id="Obs03.waterlevel"/>
+						<vector id="allElementsFromIoObject"/>
+						<vector id="Amerada_Pass.waterlevel"/>
+						<vector id="Bay_Waveland_Yacht_Club.waterlevel"/>
+						<vector id="Calcasieu_Pass.waterlevel"/>
+						<vector id="Coast_Gaurd_Sector_Mobile.waterlevel"/>
+						<vector id="Dauphin_Island.waterlevel"/>
+						<vector id="Dog_River_Bridge.waterlevel"/>
+						<vector id="Eugene_Island.waterlevel"/>
+						<vector id="Freshwater_Canal_Locks.waterlevel"/>
+						<vector id="Grand_Isle.waterlevel"/>
+						<vector id="New_Canal.waterlevel"/>
+						<vector id="Pascagoula.waterlevel"/>
+						<vector id="Pilots_Station.waterlevel"/>
+						<vector id="Pilottown.waterlevel"/>
+						<vector id="Port_Fourchon.waterlevel"/>
+						<vector id="Shell_Beach.waterlevel"/>
         </predictor>
 
     </vectorSpecification>
