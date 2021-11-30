@@ -23,9 +23,21 @@
 
 	<exchangeItems>
 		<vector id="allElementsFromIoObject" ioObjectId="frictionCoefFile"/>
-		<vector id="Obs01.waterlevel" ioObjectId="%netcdfoutput%" elementId="Obs01.waterlevel"/>
-		<vector id="Obs02.waterlevel" ioObjectId="%netcdfoutput%" elementId="Obs02.waterlevel"/>
-		<vector id="Obs03.waterlevel" ioObjectId="%netcdfoutput%" elementId="Obs03.waterlevel"/>
+		<vector id="Amerada_Pass.waterlevel" ioObjectId="%netcdfoutput%" elementId="Amerada_Pass.waterlevel"/>
+		<vector id="Bay_Waveland_Yacht_Club.waterlevel" ioObjectId="%netcdfoutput%" elementId="Bay_Waveland_Yacht_Club.waterlevel"/>
+		<vector id="Calcasieu_Pass.waterlevel" ioObjectId="%netcdfoutput%" elementId="Calcasieu_Pass.waterlevel"/>
+		<vector id="Coast_Gaurd_Sector_Mobile.waterlevel" ioObjectId="%netcdfoutput%" elementId="Coast_Gaurd_Sector_Mobile.waterlevel"/>
+		<vector id="Dauphin_Island.waterlevel" ioObjectId="%netcdfoutput%" elementId="Dauphin_Island.waterlevel"/>
+		<vector id="Dog_River_Bridge.waterlevel" ioObjectId="%netcdfoutput%" elementId="Dog_River_Bridge.waterlevel"/>
+		<vector id="Eugene_Island.waterlevel" ioObjectId="%netcdfoutput%" elementId="Eugene_Island.waterlevel"/>
+		<vector id="Freshwater_Canal_Locks.waterlevel" ioObjectId="%netcdfoutput%" elementId="Freshwater_Canal_Locks.waterlevel"/>
+		<vector id="Grand_Isle.waterlevel" ioObjectId="%netcdfoutput%" elementId="Grand_Isle.waterlevel"/>
+		<vector id="New_Canal.waterlevel" ioObjectId="%netcdfoutput%" elementId="New_Canal.waterlevel"/>
+		<vector id="Pascagoula.waterlevel" ioObjectId="%netcdfoutput%" elementId="Pascagoula.waterlevel"/>
+		<vector id="Pilots_Station.waterlevel" ioObjectId="%netcdfoutput%" elementId="Pilots_Station.waterlevel"/>
+		<vector id="Pilottown.waterlevel" ioObjectId="%netcdfoutput%" elementId="Pilottown.waterlevel"/>
+		<vector id="Port_Fourchon.waterlevel" ioObjectId="%netcdfoutput%" elementId="Port_Fourchon.waterlevel"/>
+		<vector id="Shell_Beach.waterlevel" ioObjectId="%netcdfoutput%" elementId="Shell_Beach.waterlevel"/>
 	</exchangeItems>
 
 <doCleanUp>false</doCleanUp>
