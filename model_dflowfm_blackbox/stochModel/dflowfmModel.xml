@@ -14,7 +14,7 @@
 		<alias key="templateDir" value="./input_dflowfm"/>
 		<alias key="runid" value="oda01"/>
 		<alias key="frictionMultiplierFile" value="friction_multiplier.xyz"/>
-		<alias key="frictionMultiplierTemplateFile" value="friction_factor_template.xyz"/>
+		<alias key="frictionMultiplierTemplateFile" value="friction_multiplier_template.xyz"/>
 		<alias key="inputFile" value="oda01.mdu"/>
 		<alias key="netcdfoutput" value="output/oda01_0000_his.nc"/>
 	</aliasValues>
