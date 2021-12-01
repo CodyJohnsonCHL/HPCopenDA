@@ -21,6 +21,7 @@
 
         <predictor>
 						<vector id="allElementsFromIoObject"/>
+						<vector id="Bonnet_Carre_Spillway.waterlevel"/>
 						<vector id="Amerada_Pass.waterlevel"/>
 						<vector id="Bay_Waveland_Yacht_Club.waterlevel"/>
 						<vector id="Calcasieu_Pass.waterlevel"/>
