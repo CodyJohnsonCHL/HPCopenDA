@@ -15,6 +15,7 @@
         <alias key="depthMultiplierTemplateFile"/>
         <alias key="inputFile"/>
         <alias key="netcdfoutput"/>
+        <alias key="waterlvlbc"/>
     </aliasDefinitions>
 
     <run>
@@ -40,14 +41,9 @@
             <arg>true</arg>
             <arg>false</arg>
         </dataObject>
-        <dataObject className="org.openda.model_dflowfm.DFlowFMTimeSeriesDataObject">
-            <file>%inputFile%</file>
-            <id>boundaries</id>
-				</dataObject>
 				<dataObject className="org.openda.model_dflowfm.BcFile">
-					<file>WaterLevel.bc</file>
+					<file>%waterlvlbc%</file>
 					<id>bcfile</id>
-					<arg>WaterLevel.bc</arg>
 				</dataObject>
     </inputOutput>
 

@@ -15,6 +15,7 @@
 		<alias key="runid" value="oda02"/>
 		<alias key="inputFile" value="oda02.mdu"/>
 		<alias key="netcdfoutput" value="output/oda02_0000_his.nc"/>
+		<alias key="waterlvlbc" value="WaterLevel.bc"/>
 	</aliasValues>
 
 		<!--
