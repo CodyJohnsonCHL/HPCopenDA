@@ -11,52 +11,20 @@
         <parameters>
             <regularisationConstant>
                 <stdDev value=".05" transformation="identity"/>
-                <vector id="M2_amplitude"/>
+                <vector id="K1_amplitude"/>
             </regularisationConstant>
             <regularisationConstant>
                 <stdDev value="5.0" transformation="identity"/>
-                <vector id="M2_phase"/>
+                <vector id="K1_phase"/>
             </regularisationConstant>
-<!--
-            <regularisationConstant>
-                <stdDev value=".05" transformation="identity"/>
-                <vector id="depth_1"/>
-            </regularisationConstant>
-            <regularisationConstant>
-                <stdDev value=".05" transformation="identity"/>
-                <vector id="S2_amplitude"/>
-            </regularisationConstant>
-            <regularisationConstant>
-                <stdDev value="5.0" transformation="identity"/>
-                <vector id="S2_phase"/>
-            </regularisationConstant>
-            <regularisationConstant>
-                <stdDev value=".05" transformation="identity"/>
-                <vector id="depth_2"/>
-            </regularisationConstant>
-            <regularisationConstant>
-                <stdDev value=".05" transformation="identity"/>
-                <vector id="depth_3"/>
-            </regularisationConstant>
-            <regularisationConstant>
-                <stdDev value=".05" transformation="identity"/>
-                <vector id="friction_1"/>
-            </regularisationConstant>
-            <regularisationConstant>
-                <stdDev value=".05" transformation="identity"/>
-                <vector id="friction_2"/>
-            </regularisationConstant>
-            <regularisationConstant>
-                <stdDev value=".05" transformation="identity"/>
-                <vector id="friction_3"/>
-            </regularisationConstant>
--->
         </parameters>
 
-        <predictor>
-            <vector id="station01.waterlevel"/>
-            <vector id="station02.waterlevel"/>
-            <vector id="station03.waterlevel"/>
+				<predictor>
+					<!--
+					<vector id="Pilots_Station.waterlevel"/>
+					<vector id="Dauphin_Island.waterlevel"/>
+					-->
+					<vector id="Calcasieu_Pass.waterlevel"/>
         </predictor>
 
     </vectorSpecification>
