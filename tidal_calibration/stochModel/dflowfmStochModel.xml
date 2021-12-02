@@ -11,11 +11,11 @@
         <parameters>
             <regularisationConstant>
                 <stdDev value=".05" transformation="identity"/>
-                <vector id="K1_amplitude"/>
+                <vector id="bcfile" modelExchangeItemId="tide_west_ext_0002.K1_amplitude"/>
             </regularisationConstant>
             <regularisationConstant>
                 <stdDev value="5.0" transformation="identity"/>
-                <vector id="K1_phase"/>
+                <vector id="bcfile" modelExchangeItemId="tide_west_ext_0002.K1_amplitude"/>
             </regularisationConstant>
         </parameters>
 
