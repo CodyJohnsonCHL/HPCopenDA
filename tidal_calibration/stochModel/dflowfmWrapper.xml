@@ -44,6 +44,7 @@
 				<dataObject className="org.openda.model_dflowfm.BcFile">
 					<file>%waterlvlbc%</file>
 					<id>bcfile</id>
+					<arg>%waterlvlbc%</arg>
 				</dataObject>
     </inputOutput>
 
