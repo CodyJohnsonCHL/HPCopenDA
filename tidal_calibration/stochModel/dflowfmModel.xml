@@ -25,8 +25,8 @@
 		<vector id="Dauphin_Island.waterlevel" ioObjectId="%netcdfoutput%" elementId="Dauphin_Island.waterlevel"/>
 		-->
 		<vector id="Calcasieu_Pass.waterlevel" ioObjectId="%netcdfoutput%" elementId="Calcasieu_Pass.waterlevel"/>
-		<vector id="K1_amplitude" ioObjectId="boundaries" elementId="tide_west_ext.1:waterlevelbnd.K1_amplitude"/>
-		<vector id="K1_phase" ioObjectId="boundaries" elementId="tide_west_ext.1:waterlevelbnd.K1_phase"/>
+		<vector id="K1_amplitude" ioObjectId="boundaries" elementId="tide_west_ext.tide_west_ext_0002:waterlevelbnd.K1_amplitude"/>
+		<vector id="K1_phase" ioObjectId="boundaries" elementId="tide_west_ext.tide_west_ext_0002:waterlevelbnd.K1_phase"/>
 	</exchangeItems>
 
 <doCleanUp>false</doCleanUp>
