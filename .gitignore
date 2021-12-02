@@ -1,4 +1,4 @@
-model_dflowfm_blackbox/stochModel/input_dflowfm/*
+**/input_dflowfm/*
 work*
 *.orp
 *.m
