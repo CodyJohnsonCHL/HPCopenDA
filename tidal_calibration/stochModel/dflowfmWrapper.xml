@@ -43,7 +43,12 @@
         <dataObject className="org.openda.model_dflowfm.DFlowFMTimeSeriesDataObject">
             <file>%inputFile%</file>
             <id>boundaries</id>
-        </dataObject>
+				</dataObject>
+				<dataObject className="org.openda.model_dflowfm.BcFile">
+					<file>WaterLevel.bc</file>
+					<id>bcfile</id>
+					<arg>WaterLevel.bc</arg>
+				</dataObject>
     </inputOutput>
 
 </blackBoxWrapperConfig>
