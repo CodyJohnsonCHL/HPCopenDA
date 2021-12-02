@@ -8,17 +8,19 @@
 
     <vectorSpecification>
         
-        <parameters>
-						<regularisationConstant>
-							<exchangeItem id="K1_amplitude" modelExchangeItemId="tide_west_ext_0002.K1_amplitude"/>
-                <stdDev value=".05" transformation="identity"/>
-                <vector id="K1_amplitude"/>
-						</regularisationConstant>
-						<regularisationConstant>
-							<exchangeItem id="K1_amplitude" modelExchangeItemId="tide_west_ext_0002.K1_amplitude"/>
-                <stdDev value="5.0" transformation="identity"/>
-                <vector id="K1_phase"/>
-            </regularisationConstant>
+			<parameters>
+				<exchangeItems>
+					<exchangeItem id="K1_amplitude" modelExchangeItemId="tide_west_ext_0002.K1_amplitude"/>
+					<exchangeItem id="K1_phase" modelExchangeItemId="tide_west_ext_0002.K1_phase"/>
+				</exchangeItems>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="K1_amplitude"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="K1_phase"/>
+					</regularisationConstant>
         </parameters>
 
 				<predictor>
