@@ -9,13 +9,15 @@
     <vectorSpecification>
         
         <parameters>
-            <regularisationConstant>
+						<regularisationConstant>
+							<exchangeItem id="K1_amplitude" modelExchangeItemId="tide_west_ext_0002.K1_amplitude"/>
                 <stdDev value=".05" transformation="identity"/>
-                <vector id="bcfile" modelExchangeItemId="tide_west_ext_0002.K1_amplitude"/>
-            </regularisationConstant>
-            <regularisationConstant>
+                <vector id="K1_amplitude"/>
+						</regularisationConstant>
+						<regularisationConstant>
+							<exchangeItem id="K1_amplitude" modelExchangeItemId="tide_west_ext_0002.K1_amplitude"/>
                 <stdDev value="5.0" transformation="identity"/>
-                <vector id="bcfile" modelExchangeItemId="tide_west_ext_0002.K1_amplitude"/>
+                <vector id="K1_phase"/>
             </regularisationConstant>
         </parameters>
 
