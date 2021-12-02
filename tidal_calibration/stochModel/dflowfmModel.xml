@@ -32,7 +32,7 @@
 		-->
 		
 		<vector id="Calcasieu_Pass.waterlevel" ioObjectId="%netcdfoutput%" elementId="Calcasieu_Pass.waterlevel"/>
-		<vector id="allElementsFromIoObject" ioObjectID="bcfile"/>
+		<vector id="allElementsFromIoObject" ioObjectId="bcfile"/>
 	
 	</exchangeItems>
 
