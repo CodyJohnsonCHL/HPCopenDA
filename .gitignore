@@ -4,3 +4,4 @@ work*
 *.m
 openda_logfile.txt
 results_dud.csv
+fric_calib.o*
