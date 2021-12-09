@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ### Required PBS directives ----------
-#PBS -l select=1:ncpus=36:mpiprocs=36
+#PBS -l select=5:ncpus=36:mpiprocs=180
 #PBS -l walltime=168:00:00
 #PBS -q adh
 #PBS -A ERDCV91008ADH
