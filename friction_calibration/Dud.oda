@@ -12,10 +12,6 @@
 		<workingDirectory>./algorithm</workingDirectory>
 		<configString>dudAlgorithm.xml</configString>
 	</algorithm>
-	<resultWriter className="org.openda.resultwriters.MatlabResultWriter">
-		<workingDirectory>.</workingDirectory>
-		<configFile>dud_results.m</configFile>
-	</resultWriter>
 	<resultWriter className="org.openda.resultwriters.PythonResultWriter">
 		<workingDirectory>.</workingDirectory>
 		<configFile>dud_results.py</configFile>
