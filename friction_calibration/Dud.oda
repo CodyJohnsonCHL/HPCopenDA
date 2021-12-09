@@ -16,4 +16,8 @@
 		<workingDirectory>.</workingDirectory>
 		<configFile>dud_results.m</configFile>
 	</resultWriter>
+	<resultWriter className="org.openda.resultwriters.PythonResultWriter">
+		<workingDirectory>.</workingDirectory>
+		<configFile>dud_results.py</configFile>
+	</resultWriter>
 </openDaApplication>
