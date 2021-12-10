@@ -9,13 +9,8 @@
         <alias key="instanceDir"/>
         <alias key="templateDir"/>
         <alias key="runid"/>
-        <alias key="frictionMultiplierFile"/>
-        <alias key="frictionMultiplierTemplateFile"/>
-        <alias key="depthMultiplierFile"/>
-        <alias key="depthMultiplierTemplateFile"/>
         <alias key="inputFile"/>
         <alias key="netcdfoutput"/>
-        <alias key="waterlvlbc"/>
     </aliasDefinitions>
 
     <run>
@@ -40,11 +35,10 @@
             <id>%netcdfoutput%</id>
             <arg>true</arg>
             <arg>false</arg>
-        </dataObject>
-				<dataObject className="org.openda.model_dflowfm.BcFile">
-					<file>%waterlvlbc%</file>
-					<id>bcfile</id>
-					<arg>%waterlvlbc%</arg>
+				</dataObject>
+				<dataObject className="org.openda.model_dflowfm.DFlowFMTimeSeriesDataObject">
+						<file>%inputFile%</file>
+						<id>boundaries</id>
 				</dataObject>
     </inputOutput>
 

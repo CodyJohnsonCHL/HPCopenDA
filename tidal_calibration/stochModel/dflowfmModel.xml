@@ -15,26 +15,17 @@
 		<alias key="runid" value="oda02"/>
 		<alias key="inputFile" value="oda02.mdu"/>
 		<alias key="netcdfoutput" value="output/oda02_0000_his.nc"/>
-		<alias key="waterlvlbc" value="WaterLevel.bc"/>
 	</aliasValues>
 
-		<!--
 	<timeInfo start="2016-02-01T00:00:00" end="2016-03-01T00:00:00"/>
-		-->
-	<timeInfo start="2016-02-01T00:00:00" end="2016-02-01T06:00:00"/>
 
 	<exchangeItems>
 		
-		<!--
+		<vector id="Calcasieu_Pass.waterlevel" ioObjectId="%netcdfoutput%" elementId="Calcasieu_Pass.waterlevel"/>
 		<vector id="Pilots_Station.waterlevel" ioObjectId="%netcdfoutput%" elementId="Pilots_Station.waterlevel"/>
 		<vector id="Dauphin_Island.waterlevel" ioObjectId="%netcdfoutput%" elementId="Dauphin_Island.waterlevel"/>
-		<vector id="K1_amplitude" ioObjectId="bcfile" elementId="tide_west_ext_0002:waterlevelbnd.K1_amplitude"/>
-		<vector id="K1_phase" ioObjectId="bcfile" elementId="tide_west_ext_0002:waterlevelbnd.K1_phase"/>
-		-->
-		
-		<vector id="Calcasieu_Pass.waterlevel" ioObjectId="%netcdfoutput%" elementId="Calcasieu_Pass.waterlevel"/>
-		<vector id="allElementsFromIoObject" ioObjectId="bcfile"/>
-	
+		<vector id="K1_amplitude_1" ioObjectId="boundaries" elementId="shelf_tide_west.1:waterlevelbnd.K1_amplitude"/>
+		<vector id="K1_phase_1" ioObjectId="boundaries" elementId="shelf_tide_west.1:waterlevelbnd.K1_phase"/>
 	</exchangeItems>
 
 <doCleanUp>false</doCleanUp>

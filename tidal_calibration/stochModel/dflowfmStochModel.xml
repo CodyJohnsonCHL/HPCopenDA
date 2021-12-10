@@ -15,19 +15,17 @@
 			<parameters>
 					<regularisationConstant>
 							<stdDev value=".05" transformation="identity"/>
-							<vector id="K1_amplitude"/>
+							<vector id="K1_amplitude_1"/>
 					</regularisationConstant>
 					<regularisationConstant>
 							<stdDev value="5.0" transformation="identity"/>
-							<vector id="K1_phase"/>
+							<vector id="K1_phase_1"/>
 					</regularisationConstant>
         </parameters>
 
 				<predictor>
-					<!--
 					<vector id="Pilots_Station.waterlevel"/>
 					<vector id="Dauphin_Island.waterlevel"/>
-					-->
 					<vector id="Calcasieu_Pass.waterlevel"/>
         </predictor>
 
