@@ -7,7 +7,7 @@ xsi:schemaLocation="http://www.openda.org http://schemas.openda.org/algorithm/du
       <backTracking shorteningFactor="0.5" startIterationNegativeLook="3" />
 		</lineSearch>
 		<constraints parameterConstraint="true">
-			<lowerbounds bounds="[-0.57]"/>
-			<upperbounds bounds="[0.79]"/>
+			<lowerbounds bounds="[-0.57,-0.57,-0.57,-0.57,-0.57,-0.57,-0.57,-0.57,-0.57,-0.57,-0.57,-0.57,-0.57,-0.57,-0.57,-0.57,-0.57]"/>
+			<upperbounds bounds="[0.79,0.79,0.79,0.79,0.79,0.79,0.79,0.79,0.79,0.79,0.79,0.79,0.79,0.79,0.79,0.79,0.79]"/>
 		</constraints>
 </DudConfig>
