@@ -17,6 +17,318 @@
 							<stdDev value="5.0" transformation="identity"/>
 							<vector id="K1_phase_1"/>
 					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="K1_amplitude_2"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="K1_phase_2"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="K1_amplitude_3"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="K1_phase_3"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="K1_amplitude_4"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="K1_phase_4"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="K1_amplitude_5"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="K1_phase_5"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="K1_amplitude_6"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="K1_phase_6"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="K1_amplitude_7"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="K1_phase_7"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="K1_amplitude_8"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="K1_phase_8"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="K1_amplitude_9"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="K1_phase_9"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="K1_amplitude_10"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="K1_phase_10"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="K1_amplitude_11"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="K1_phase_11"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="K1_amplitude_12"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="K1_phase_12"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="K1_amplitude_13"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="K1_phase_13"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="K1_amplitude_14"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="K1_phase_14"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="K1_amplitude_15"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="K1_phase_15"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="K1_amplitude_16"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="K1_phase_16"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="K1_amplitude_17"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="K1_phase_17"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="K1_amplitude_18"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="K1_phase_18"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="K1_amplitude_19"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="K1_phase_19"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="K1_amplitude_20"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="K1_phase_20"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="O1_amplitude_1"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="O1_phase_1"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="O1_amplitude_2"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="O1_phase_2"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="O1_amplitude_3"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="O1_phase_3"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="O1_amplitude_4"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="O1_phase_4"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="O1_amplitude_5"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="O1_phase_5"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="O1_amplitude_6"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="O1_phase_6"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="O1_amplitude_7"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="O1_phase_7"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="O1_amplitude_8"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="O1_phase_8"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="O1_amplitude_9"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="O1_phase_9"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="O1_amplitude_10"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="O1_phase_10"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="O1_amplitude_11"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="O1_phase_11"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="O1_amplitude_12"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="O1_phase_12"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="O1_amplitude_13"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="O1_phase_13"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="O1_amplitude_14"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="O1_phase_14"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="O1_amplitude_15"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="O1_phase_15"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="O1_amplitude_16"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="O1_phase_16"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="O1_amplitude_17"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="O1_phase_17"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="O1_amplitude_18"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="O1_phase_18"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="O1_amplitude_19"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="O1_phase_19"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value=".05" transformation="identity"/>
+							<vector id="O1_amplitude_20"/>
+					</regularisationConstant>
+					<regularisationConstant>
+							<stdDev value="5.0" transformation="identity"/>
+							<vector id="O1_phase_20"/>
+					</regularisationConstant>
         </parameters>
 
 				<predictor>
