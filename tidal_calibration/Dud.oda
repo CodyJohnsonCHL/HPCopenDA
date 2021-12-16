@@ -14,10 +14,9 @@
 	</algorithm>
 
 	<resultWriters>
-		<resultWriter 
-			className="org.openda.resultwriters.MatlabResultWriter">
+		<resultWriter className="org.openda.resultwriters.PythonResultWriter">
 			<workingDirectory>.</workingDirectory>
-			<configFile>results_dud.m</configFile>
+			<configFile>dud_results.py</configFile>
 		</resultWriter>
 		<resultWriter className="org.openda.resultwriters.TextTableWriter">
 			<workingDirectory>.</workingDirectory>
