@@ -10,71 +10,71 @@
         
         <parameters>
             <regularisationConstant>
-                <stdDev value=".05" transformation="identity"/>
+                <stdDev value=".10" transformation="identity"/>
                 <vector id="friction_1"/>
             </regularisationConstant>
             <regularisationConstant>
-                <stdDev value=".05" transformation="identity"/>
+                <stdDev value=".10" transformation="identity"/>
                 <vector id="friction_2"/>
             </regularisationConstant>
             <regularisationConstant>
-                <stdDev value=".05" transformation="identity"/>
+                <stdDev value=".10" transformation="identity"/>
                 <vector id="friction_3"/>
             </regularisationConstant>
             <regularisationConstant>
-                <stdDev value=".05" transformation="identity"/>
+                <stdDev value=".10" transformation="identity"/>
                 <vector id="friction_4"/>
             </regularisationConstant>
             <regularisationConstant>
-                <stdDev value=".05" transformation="identity"/>
+                <stdDev value=".10" transformation="identity"/>
                 <vector id="friction_5"/>
             </regularisationConstant>
             <regularisationConstant>
-                <stdDev value=".05" transformation="identity"/>
+                <stdDev value=".10" transformation="identity"/>
                 <vector id="friction_6"/>
             </regularisationConstant>
             <regularisationConstant>
-                <stdDev value=".05" transformation="identity"/>
+                <stdDev value=".10" transformation="identity"/>
                 <vector id="friction_7"/>
             </regularisationConstant>
             <regularisationConstant>
-                <stdDev value=".05" transformation="identity"/>
+                <stdDev value=".10" transformation="identity"/>
                 <vector id="friction_8"/>
             </regularisationConstant>
             <regularisationConstant>
-                <stdDev value=".05" transformation="identity"/>
+                <stdDev value=".10" transformation="identity"/>
                 <vector id="friction_9"/>
             </regularisationConstant>
             <regularisationConstant>
-                <stdDev value=".05" transformation="identity"/>
+                <stdDev value=".10" transformation="identity"/>
                 <vector id="friction_10"/>
             </regularisationConstant>
             <regularisationConstant>
-                <stdDev value=".05" transformation="identity"/>
+                <stdDev value=".10" transformation="identity"/>
                 <vector id="friction_11"/>
             </regularisationConstant>
             <regularisationConstant>
-                <stdDev value=".05" transformation="identity"/>
+                <stdDev value=".10" transformation="identity"/>
                 <vector id="friction_12"/>
             </regularisationConstant>
             <regularisationConstant>
-                <stdDev value=".05" transformation="identity"/>
+                <stdDev value=".10" transformation="identity"/>
                 <vector id="friction_13"/>
             </regularisationConstant>
             <regularisationConstant>
-                <stdDev value=".05" transformation="identity"/>
+                <stdDev value=".10" transformation="identity"/>
                 <vector id="friction_14"/>
             </regularisationConstant>
             <regularisationConstant>
-                <stdDev value=".05" transformation="identity"/>
+                <stdDev value=".10" transformation="identity"/>
                 <vector id="friction_15"/>
             </regularisationConstant>
             <regularisationConstant>
-                <stdDev value=".05" transformation="identity"/>
+                <stdDev value=".10" transformation="identity"/>
                 <vector id="friction_16"/>
             </regularisationConstant>
             <regularisationConstant>
-                <stdDev value=".05" transformation="identity"/>
+                <stdDev value=".10" transformation="identity"/>
                 <vector id="friction_17"/>
             </regularisationConstant>
         </parameters>
