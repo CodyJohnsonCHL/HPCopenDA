@@ -1,11 +1,11 @@
 #!/bin/bash
 
 ### Required PBS directives ----------
-#PBS -l select=1:ncpus=2:mpiprocs=0
+#PBS -l select=1:ncpus=36:mpiprocs=36
 #PBS -l walltime=168:00:00
 #PBS -q adh
 #PBS -A ERDCV91008ADH
-#PBS -N fric_calib
+#PBS -N tide_calib
 #PBS -j oe
 #PBS -M Cody.L.Johnson@erdc.dren.mil
 #PBS -m be
