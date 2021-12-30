@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <noosObserver xmlns="http://www.openda.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openda.org http://schemas.openda.org/observation/noosObservations.xsd">
 
-	<timeSeries status="use" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.03">
 		Dauphin_Island
 	</timeSeries>
 	<timeSeries status="use" standardDeviation="0.05">
@@ -10,7 +10,7 @@
 	<timeSeries status="use" standardDeviation="0.05">
 		Coast_Guard_Sector_Mobile
 	</timeSeries>
-	<timeSeries status="use" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.03">
 		Bay_Waveland_Yacht_Club
 	</timeSeries>
 	<timeSeries status="use" standardDeviation="0.05">
@@ -19,19 +19,19 @@
 	<timeSeries status="use" standardDeviation="0.05">
 		Pilots_Station
 	</timeSeries>
-	<timeSeries status="use" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.01">
 		Shell_Beach
 	</timeSeries>
 	<timeSeries status="use" standardDeviation="0.05">
 		Grand_Isle
 	</timeSeries>
-	<timeSeries status="use" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.01">
 		New_Canal
 	</timeSeries>
 	<timeSeries status="use" standardDeviation="0.05">
 		Port_Fourchon
 	</timeSeries>
-	<timeSeries status="use" standardDeviation="0.05">
+	<timeSeries status="use" standardDeviation="0.01">
 		Bonnet_Carre_Spillway
 	</timeSeries>
 	<timeSeries status="use" standardDeviation="0.05">
@@ -46,7 +46,199 @@
 	<timeSeries status="use" standardDeviation="0.05">
 		Calcasieu_Pass
 	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.03">
+		Pascagoula
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.03">
+		Dauphin_Island
+	</timeSeries>
 	<timeSeries status="use" standardDeviation="0.05">
+		Dog_River_Bridge
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Coast_Guard_Sector_Mobile
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.03">
+		Bay_Waveland_Yacht_Club
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Pilottown
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Pilots_Station
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.01">
+		Shell_Beach
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Grand_Isle
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.01">
+		New_Canal
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Port_Fourchon
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.01">
+		Bonnet_Carre_Spillway
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Amerada_Pass
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Eugene_Island
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Freshwater_Canal_Locks
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Calcasieu_Pass
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.03">
+		Pascagoula
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.03">
+		Dauphin_Island
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Dog_River_Bridge
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Coast_Guard_Sector_Mobile
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.03">
+		Bay_Waveland_Yacht_Club
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Pilottown
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Pilots_Station
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.01">
+		Shell_Beach
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Grand_Isle
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.01">
+		New_Canal
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Port_Fourchon
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.01">
+		Bonnet_Carre_Spillway
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Amerada_Pass
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Eugene_Island
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Freshwater_Canal_Locks
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Calcasieu_Pass
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.03">
+		Pascagoula
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.03">
+		Dauphin_Island
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Dog_River_Bridge
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Coast_Guard_Sector_Mobile
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.03">
+		Bay_Waveland_Yacht_Club
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Pilottown
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Pilots_Station
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.01">
+		Shell_Beach
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Grand_Isle
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.01">
+		New_Canal
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Port_Fourchon
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.01">
+		Bonnet_Carre_Spillway
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Amerada_Pass
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Eugene_Island
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Freshwater_Canal_Locks
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Calcasieu_Pass
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.03">
+		Pascagoula
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.03">
+		Dauphin_Island
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Dog_River_Bridge
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Coast_Guard_Sector_Mobile
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.03">
+		Bay_Waveland_Yacht_Club
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Pilottown
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Pilots_Station
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.01">
+		Shell_Beach
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Grand_Isle
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.01">
+		New_Canal
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Port_Fourchon
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.01">
+		Bonnet_Carre_Spillway
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Amerada_Pass
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Eugene_Island
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Freshwater_Canal_Locks
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.05">
+		Calcasieu_Pass
+	</timeSeries>
+	<timeSeries status="use" standardDeviation="0.03">
 		Pascagoula
 	</timeSeries>
 
