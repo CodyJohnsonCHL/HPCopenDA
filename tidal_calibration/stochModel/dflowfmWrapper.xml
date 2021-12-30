@@ -26,9 +26,7 @@
 				</computeActions>
 
 				<additionalComputeActions>
-            <action workingDirectory="%instanceDir%" linuxExe="%exedir%/start_dflowfm.sh">
-                <arg>%inputFile%</arg>
-                <checkOutput file="%netcdfoutput%"/>
+            <action workingDirectory="%instanceDir%" linuxExe="%exedir%/hold.sh">
             </action>
 				</additionalComputeActions>
 
