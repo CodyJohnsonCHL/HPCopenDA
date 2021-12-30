@@ -24,13 +24,12 @@
                 <checkOutput file="%netcdfoutput%"/>
             </action>
 				</computeActions>
-
+<!--
 				<additionalComputeActions>
             <action workingDirectory="%instanceDir%" linuxExe="%exedir%/hold.sh">
             </action>
 				</additionalComputeActions>
-
-
+-->
 
         <finalizeActions/>
 
