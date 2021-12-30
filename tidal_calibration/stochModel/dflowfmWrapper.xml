@@ -19,11 +19,20 @@
         <initializeActionsUsingDirClone instanceDir="%instanceDir%%instanceNumber%" templateDir="%templateDir%"/>
 
         <computeActions>
-            <action workingDirectory="%instanceDir%" linuxExe="%exedir%/start_dflowfm.sh" windowsExe="%exedir%/start_dimr.bat">
+            <action workingDirectory="%instanceDir%" linuxExe="%exedir%/start_dflowfm.sh">
                 <arg>%inputFile%</arg>
                 <checkOutput file="%netcdfoutput%"/>
             </action>
-        </computeActions>
+				</computeActions>
+
+				<additionalComputeActions>
+            <action workingDirectory="%instanceDir%" linuxExe="%exedir%/start_dflowfm.sh">
+                <arg>%inputFile%</arg>
+                <checkOutput file="%netcdfoutput%"/>
+            </action>
+				</additionalComputeActions>
+
+
 
         <finalizeActions/>
 
