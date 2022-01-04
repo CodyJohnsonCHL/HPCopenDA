@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <threadConfig xmlns="http://www.openda.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://www.openda.org http://schemas.openda.org/threadConfig.xsd">
-	<maxThreads>5</maxThreads>
+	<maxThreads>4</maxThreads>
 	<numThreadGroups>1</numThreadGroups>
 	<StochModelFactory className="org.openda.blackbox.wrapper.BBStochModelFactory">
 		<workingDirectory>.</workingDirectory>
