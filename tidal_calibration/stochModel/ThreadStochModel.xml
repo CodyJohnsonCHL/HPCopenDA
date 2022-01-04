@@ -1,7 +1,7 @@
 <threadconfig xmlns="http://www.openda.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://www.openda.org http://schemas.openda.org/threadConfig.xsd">
 	<maxthreads>5</maxthreads>
 	<numthreadgroups>1</numthreadgroups>
-	<stochmodelfactory classname="org.openda.blackbox.wrapper.BBStochModelFactory">
+	<stochmodelfactory className="org.openda.blackbox.wrapper.BBStochModelFactory">
 		<workingdirectory>.</workingdirectory>
 		<configfile>dflowfmStochModel.xml</configfile>
 	</stochmodelfactory>
